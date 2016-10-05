@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.repochronos" name="RepoChronos" version="1.0" provider-name="Chronos">
 	<extension point="xbmc.addon.repository" name="RepoChronos">
-		<info compressed="false">https://raw.githubusercontent.com/Stvandroes/repostva/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Stvandroes/repostva/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/Stvandroes/repostva/master</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/Chronosaddon/repochronos/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Chronosaddon/repochronos/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Chronosaddon/repochronos/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>RepoChronos</summary>
