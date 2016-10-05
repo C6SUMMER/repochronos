@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.repochronos" name="RepoChronos" version="1.0" provider-name="Chronos">
+	<extension point="xbmc.addon.repository" name="RepoChronos">
+		<info compressed="false">https://raw.githubusercontent.com/Stvandroes/repostva/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Stvandroes/repostva/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Stvandroes/repostva/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>RepoChronos</summary>
+   		<description lang="es">Repositorio para actualizar el addon Chronos y sus complementos.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

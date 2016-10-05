@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526c6599-3923-4954-9288-ba771bde8fca" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/AADecoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/Images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/Images/trans_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/Images/trans_unchecked1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/RijndaelManaged.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/channels_example.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/complementos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/items_example.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/jscrypto.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/m3ulistex_.m3u" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/oneplay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/ordereddict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/pkcs7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/pyaes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/resources/settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/securi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/source_file" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/tv5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/unCaptcha.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.chronos/youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/python7Android.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/resources/language/english/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/resources/settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.f4mTester/webutils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/AADecoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/Images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/Images/trans_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/Images/trans_unchecked1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/RijndaelManaged.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/channels_example.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/checkbad.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/items_example.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/jscrypto.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/m3ulistex_.m3u" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/oneplay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/ordereddict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pkcs7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pyaes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pyaesnew/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pyaesnew/aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pyaesnew/blockfeeder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/pyaesnew/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/resources/settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/securi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/sucuri_cookie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/tv5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/unCaptcha.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_abnf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_app.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_handshake.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_http.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_socket.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_ssl_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/cacert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/tests/data/header01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/tests/data/header02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/websocket/tests/test_websocket.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.streamspro/youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/hmf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/CustomProgressDialog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/kodi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/log_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/net.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/lib/url_dispatcher.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/alldebrid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/allmyvideos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/allvid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/auengine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/briskfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/castamp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/clicknupload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/cloudy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/cloudzilla.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/daclips.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/dailymotion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/divxstage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/exashare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/facebook.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/fastplay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/filehoot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/filepup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/flashx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/googlevideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/gorillavid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/grifthost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/hugefiles.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/idowatch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/indavideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/jetload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/kingfiles.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/letwatch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/aa_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/captcha_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/jjdecode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/jsunpack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/png.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/recaptcha_v2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/rijndael.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/lib/unwise.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/mailru.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/megadebrid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/megamp4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/mersalaayitten.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/movdivx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/movpod.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/movshare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/mp4engine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/mp4stream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/mp4upload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/myvidstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/nosvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/novamov.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/nowvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/ok.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/ol_gmu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/openload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/play44_net.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/playedto.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/playhd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/playu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/playwire.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/premiumize_me.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/purevid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/rapidvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/rapidvideocom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/realdebrid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/rpnet.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/rutube.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/sharedsx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/simplydebrid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/speedplay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/speedvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/stagevu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/streamcloud.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/streaminto.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/teramixer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/thevideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/thevideos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/toltsd_fel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/trollvid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/tunepk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/tusfiles.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/twitch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/uploadaf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/uploadc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/uploadx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/uptobox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/userscloud.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/usersfiles.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/veeHD.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/veoh.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidbull.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidcrazynet.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videobee.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videohut.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videoraj.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videorev.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videott.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videoweed.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videowood.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/videozoo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidmad.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidme.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidspot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidto.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidup_me.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidup_org.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vidzi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vimeo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vivosx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vkpass.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vodlocker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vshare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/vshareeu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/watchers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/watchonline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/watchvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/weshare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/xvidstage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/youlol.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/yourupload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/youtube.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/youwatch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/zevera.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/plugins/zstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/lib/urlresolver/resolver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/images/DialogBack2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/images/checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/images/greeninch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/images/redx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/skins/Default/720p/ProgressDialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/skins/Default/media/DialogBack2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/skins/Default/media/DialogCloseButton-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/skins/Default/media/DialogCloseButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.module.urlresolver/resources/skins/Default/media/dialogheader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/addon.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/F4mProxy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/HLSDownloaderRetry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/TSDownloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/akhds.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/androidsslPy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/bitstring.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/checkbad.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/decrypter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mDownloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/asn1parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/cipherfactory.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/cryptomath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/datefuncs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/keyfactory.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/openssl_aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/openssl_rc4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/openssl_rsakey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/openssl_tripledes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/pem.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/pycrypto_aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/pycrypto_rc4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/pycrypto_rsakey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/pycrypto_tripledes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/python_aes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/python_rc4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/python_rsakey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/rc4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/rijndael.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/rsakey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/tackwrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/f4mUtils/tripledes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/astypes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/primitives.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/scripts/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/scripts/debug_flv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/scripts/index_flv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/scripts/retimestamp_flv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/flvlib/tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/hlsDownloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.video.F4mProxy/lib/interalSimpleDownloader.py" afterPath="" />
+    </list>
+    <ignored path="repochronos.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="repochronos" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repochronos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repochronos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repochronos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../repostva" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Python.repo_maker">
+    <configuration default="false" name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repochronos" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526c6599-3923-4954-9288-ba771bde8fca" name="Default" comment="" />
+      <created>1475671715812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475671715812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
