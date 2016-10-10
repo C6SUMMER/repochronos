@@ -197,7 +197,7 @@ def decodeBase64(src):
         #common.log("Jairox5:" + src)
         try:
             ds = base64.decodestring(ds)
-            ds.encode('ascii', errors='strict') #check if result is valid ascii
+            ds.encode('ascii', 'strict') #check if result is valid ascii
         except UnicodeDecodeError: #decoded string not ascii
             ds = ''
             break

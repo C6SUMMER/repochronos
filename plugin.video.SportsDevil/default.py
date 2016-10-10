@@ -1,10 +1,11 @@
 import sys, traceback
+
 ###################################################################### DMO ######################################################################
 import requests
 import xbmcgui
 import plugintools  # Gracias PalcoTV y su creador JuarroX, por esta Herramienta
 
-mi_version = ["2016","10","04"]  # OJO!! Cambiar la Version, por supuesto... AQUI Y EN EL FICHERO DE LA NUBE
+mi_version = ["2016","10","07"]  # OJO!! Cambiar la Version, por supuesto... AQUI Y EN EL FICHERO DE LA NUBE
 
 #r = requests.get("http://pastebin.com/raw/4Frg1rC2")
 r = requests.get("http://pastebin.com/raw/2baqp6N8")
