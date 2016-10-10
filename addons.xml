@@ -111,9 +111,66 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.palcotv" name="[COLOR blue]PalcoTV   [COLOR gold]- Mod. Los 100 -[/COLOR]" version="0.3.5" provider-name="Juarrox">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="1.0.0"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+	<import addon="script.common.plugin.cache"/>
+    <import addon="script.module.dateutil" version="2.4.2"/>
+	<import addon="script.module.requests"/>
+	<import addon="script.module.mctools"/>
+	<import addon="script.module.dudehere.routines" />
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.youtube" optional="true"/>
+	<import addon="plugin.video.SportsDevil" optional="true"/>
+	<import addon="plugin.video.p2p-streams" optional="true"/>
+	<import addon="program.plexus" optional="true"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">PalcoTV</summary>
+    <description lang="en">[COLOR lightgreen][B]PalcoTV[/B][/COLOR] es una plataforma que te permite gestionar todos los contenidos multimedia a través de Kodi. Podrár crear tu add-on personal a partir de un skin XML (menú), listas M3U con potentes herramientas, gestor de archivos CBR/CBZ, módulos EPG, filtros de listas de películas, etc.[CR][CR]Este proyecto se mantiene vivo gracias al [COLOR lightgreen][B]PalcoTV Team[/B][/COLOR]: [I]Reig, DMO, Aquilesserr, MadQuark, V1k1ng0, Sebas, Quequino, DaniC, Paco y Juarrox.[/I]</description>
+    <disclaimer lang="en">[B]Este addon es un mero ejercicio de aprendizaje de programación Python y se distribuye sin contenidos.[/B] Utilízalo bajo tu responsabilidad. Su autor queda eximido de toda responsabilidad si este addon se distribuye con acceso a contenidos protegidos por derechos de autor sin el permiso de sus creadores.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.SportsDevil"
+  version="999920161007"
+  name="SportsDevil"
+  provider-name="SportsDevil">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
+   <import addon="script.module.requests" />
+   <import addon="script.module.livestreamer" />
+   <import addon="script.module.pydevd" version="4.4.0" optional="true"/>
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension
+      point="xbmc.python.script"
+      library="lib/livestreamerXBMCLocalProxy.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Ya me cansé de ponerlo en Inglés... a partir de ahora todo en Español, el mejor idioma del mundo :-)</summary>
+    <description>Para poder ver múltiples enlaces de canales, tanto en los módulos como en 'llamadas' desde otros plugins... Modificado por DarioMO: 07/10/2016 (de la versión de Hubba del 24/09/2016 y Jairox 07/10/2016)... +Info en Registro de Cambios (Gracias Goldonx, Quequeq, Nano, JairoX y JxxxxxX!!)... Soporte para llamadas p2p con PluginS p2pStreamS y PLEXUS</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.ZemTV-shani"
-       name="ZemTV.com"
-       version="4.7.5"
+       name="Zem"
+       version="5.6.4"
        provider-name="shani">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -130,10 +187,20 @@
             library="default.py">
         <provides>video</provides>
   </extension>
+
+   <extension point="xbmc.addon.repository" name="shani repository">
+        <info compressed="false">https://offshoregit.com/Shani-08/main/addons.xml</info>
+        <checksum>https://offshoregit.com/Shani-08/main/addons.xml.md5</checksum>
+        <datadir zip="true">https://offshoregit.com/Shani-08/main/zips/</datadir>
+    </extension>
+
+
+
+
   <extension point="xbmc.addon.metadata">
-    <summary>ZemTV.tv Kodi Client. Visit TVADDONS.ag for support</summary>
-    <description>Watch ZemTV.com on your XBMC. This plugin fetches the video sources from ZemTV.com and play on XBMC compatible plateforms</description>
-    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <summary>Zem Addon for sports and desi contents. Visit TVADDONS.ag for support</summary>
+    <description>Watch Sports and Desi contents on your XBMC. This plugin fetches the video sources from various platforms and locations</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with any of the content provider.</disclaimer>
     <forum>https://forums.tvaddons.ag/shanis-addon-repository/</forum>
     <email>@shani_08_kodi</email>
     <platform>all</platform>
