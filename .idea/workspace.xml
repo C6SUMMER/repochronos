@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526c6599-3923-4954-9288-ba771bde8fca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.chronos/fanart.jpg" afterPath="$PROJECT_DIR$/plugin.video.chronos/fanart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.chronos/icon.png" afterPath="$PROJECT_DIR$/plugin.video.chronos/icon.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/plugin.video.SportsDevil-0.3.5.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.SportsDevil/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.SportsDevil/addon.xml" />
     </list>
     <ignored path="repochronos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -77,6 +76,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
